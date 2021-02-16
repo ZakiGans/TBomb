@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/ZakiGans/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
   TBomb v2.0b
   <br>
@@ -65,7 +65,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/ZakiGans/TBomb
 cd TBomb
 ./TBomb.sh
 ```
@@ -77,7 +77,7 @@ To use the application, type in the following commands in iSH.
 apk add git
 apk add python3
 apk add py3-pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/ZakiGans/TBomb
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
@@ -89,7 +89,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/ZakiGans/TBomb
 cd TBomb
 bash TBomb.sh
 ```
@@ -111,7 +111,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/ZakiGans/TBomb
 cd TBomb
 ```
 
@@ -141,7 +141,7 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 
 ## Donators:
 
-- **[34D30Y](34db0y@protonmail.com)**
+- **
 - **SC AMAN**
 
 ## TODO:
@@ -154,8 +154,5 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 - [x] Split code into multiple files (after Deprecation)
 
 
-## Contact me  
-
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
+##
 
